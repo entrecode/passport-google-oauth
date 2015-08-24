@@ -1,5 +1,10 @@
 # Passport-Google-OAuth
 
+
+*This fork updates [jaredhanson/passport-google-oauth](https://github.com/jaredhanson/passport-google-oauth) with an updated API URL to support OpenID Connect format.*
+
+
+
 [Passport](http://passportjs.org/) strategies for authenticating with [Google](http://www.google.com/)
 using OAuth 1.0a and OAuth 2.0.
 
